@@ -1,6 +1,6 @@
 # Programming-Helper
 
-## <center> Variables </center>
+## Variables 
 
 **Java**
 ```java
@@ -30,7 +30,7 @@ Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
 ```
 
-## <center> Comments </center>
+## Comments
 
  - **Java**
 ```java
