@@ -1,7 +1,6 @@
 # Programming-Helper
 
 ## Variables 
-<hr>
 
 **Java**
 ```java
