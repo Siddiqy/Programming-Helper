@@ -2,7 +2,7 @@
 
 ## Variables
 
-**Java**
+ - **Java**
 ```
 String
 int
@@ -11,14 +11,14 @@ char
 boolean
 ```
 
-**JavaScript**
+ - **JavaScript**
 ```
 var
 let
 const
 ```
 
-**Python**
+ - **Python**
 ```
 Text Type:	str
 Numeric Types:	int, float, complex
