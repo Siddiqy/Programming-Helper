@@ -113,16 +113,16 @@ public class Main {
 ```
 </br>
 
-# If ... Else Statements
+## If ... Else Statements
 
 ### Java
 ```java
 if(condition1) {
-  
+  //code block
 }else if (condition2) {
-  
+  //code block
 }else {
-  
+  //code block
 }
 
 variable = (condition) ? expressionTrue :  expressionFalse;   //Short Hand if...else
@@ -131,20 +131,20 @@ variable = (condition) ? expressionTrue :  expressionFalse;   //Short Hand if...
 ### JavaScript
 ```js
 if(condition1) {
-  
+  //code block
 }else if (condition2) {
-  
+  //code block
 }else {
-  
+  //code block
 }
 ```
 
 ### Python
 ```python
 if condition1:
-
+  //code block
 elif a == b:
-
+  //code block
 else:
 ```
 </br>
