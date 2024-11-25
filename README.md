@@ -2,7 +2,7 @@
 
 ## Variables 
 
-### Java
+#### Java
 ```java
 String
 int
@@ -11,14 +11,14 @@ char
 boolean
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 var
 let
 const
 ```
 
-**Python**
+#### Python
 ```python
 Text Type:	str
 Numeric Types:	int, float, complex
@@ -32,14 +32,14 @@ None Type:	NoneType
 
 ## Comments
 
- - **Java**
+#### Java
 ```java
 // This is a comment
 /* The code below will print the words Hello World
 to the screen, and it is amazing */
 ```
 
- - **JavaScript**
+#### JavaScript
 ```js
 // This is a comment
 /*
@@ -48,7 +48,7 @@ the heading with id = "myH"
 */
 ```
 
- - **Python**
+#### Python
 ```python
 #This is a comment
 """
