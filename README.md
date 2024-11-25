@@ -239,7 +239,7 @@ cars = ["Ford", "Volvo", "BMW"]
 x = cars[0]
 ```
 
-## Class 
+## Class
 
 **Java**
 ```
@@ -280,7 +280,7 @@ p1 = Person("John", 36)
 p1.myfunc()
 ```
 
-## Class 
+## Methods 
 
 **Java**
 ```
@@ -294,6 +294,8 @@ public class Main {
   }
 }
 ```
+
+## Function 
 
 **JavaScript**
 ```
