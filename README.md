@@ -106,7 +106,7 @@ public class Main {
 }
 ```
 
-## If ... Else
+## If ... Else Statements
 
 **Java**
 ```
@@ -118,7 +118,7 @@ if (condition1) {
   //block of code to be executed if the condition1 is false and condition2 is false
 }
 
-variable = (condition) ? expressionTrue :  expressionFalse;
+variable = (condition) ? expressionTrue :  expressionFalse;   //Short Hand if...else
 ```
 
 **JavaScript**
@@ -139,5 +139,102 @@ if condition1:
 elif a == b:
   //block of code to be executed if the condition1 is false and condition2 is true
 else:
-  //block of code to be executed if the condition1 is false and condition2 is fals
+  //block of code to be executed if the condition1 is false and condition2 is false
+```
+
+## Switch Statements
+
+**Java**
+```
+switch(expression) {
+  case x:
+    //code block
+    break;
+  case y:
+    //code block
+    break;
+  default:
+    //code block
+}
+```
+
+**JavaScript**
+```
+switch(expression) {
+  case x:
+    //code block
+    break;
+  case y:
+    //code block
+    break;
+  default:
+    //code block
+}
+```
+
+## While Loop
+
+**Java**
+```
+int i = 0;
+while (i < 5) {
+  System.out.println(i);
+  i++;
+}
+```
+
+**JavaScript**
+```
+while (i < 10) {
+  text += "The number is " + i;
+  i++;
+}
+```
+
+## For Loop
+
+**Java**
+```
+for (int i = 0; i < 5; i++) {
+  System.out.println(i);
+}
+```
+
+**JavaScript**
+```
+for (let i = 0; i < 10; i++) {
+  consol.log(i)
+}
+```
+
+**Python**
+```
+for x in range(6):
+  print(x)
+
+for x in range(2, 6):
+  print(x)
+
+for x in range(2, 30, 3):
+  print(x)
+```
+
+## Arrays
+
+**Java**
+```
+String cars[] = {"Volvo", "BMW", "Ford", "Mazda"};
+System.out.println(cars[0]);
+```
+
+**JavaScript**
+```
+const cars = ["Saab", "Volvo", "BMW"];
+let car = cars[0];
+```
+
+**Python**
+```
+cars = ["Ford", "Volvo", "BMW"]
+x = cars[0]
 ```
