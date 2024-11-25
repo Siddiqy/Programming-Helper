@@ -1,7 +1,6 @@
 # Programming-Helper
 
 </br>
-</br>
 
 # Variables 
 
@@ -32,6 +31,7 @@ Boolean Type:	bool
 Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
 ```
+</br>
 
 # Comments
 
@@ -60,6 +60,7 @@ written in
 more than just one line
 """
 ```
+</br>
 
 # User Input
 
@@ -80,6 +81,7 @@ const userInput = prompt("Please enter your name:");
 ```python
 input('Enter your name:')
 ```
+</br>
 
 # Output
 
@@ -97,6 +99,7 @@ console.log("Hello World!");
 ```python
 print('Hello World!')
 ```
+</br>
 
 # Syntax
 
@@ -108,6 +111,7 @@ public class Main {
   }
 }
 ```
+</br>
 
 # If ... Else Statements
 
@@ -143,6 +147,7 @@ elif a == b:
 
 else:
 ```
+</br>
 
 # Switch Statements
 
@@ -173,6 +178,7 @@ switch(expression) {
     //code block
 }
 ```
+</br>
 
 # While Loop
 
@@ -202,6 +208,7 @@ while i < 6:
     break
   i += 1
 ```
+</br>
 
 # For Loop
 
@@ -230,6 +237,7 @@ for x in range(2, 6):    #Started from 2 and stopped at 5 and increment the sequ
 for x in range(1, 30, 3):    #Started from 1 and stopped at 30 and increment the sequence with 3
   print(x)
 ```
+</br>
 
 # Arrays
 
@@ -250,6 +258,7 @@ let car = cars[0];
 cars = ["Ford", "Volvo", "BMW"]
 x = cars[0]
 ```
+</br>
 
 # Class
 
@@ -291,6 +300,7 @@ class Person:
 p1 = Person("John", 36)
 p1.myfunc()
 ```
+</br>
 
 # Methods 
 
@@ -306,6 +316,7 @@ public class Main {
   }
 }
 ```
+</br>
 
 # Function 
 
@@ -323,6 +334,7 @@ def my_function(name):
 
 my_function("Tobias")
 ```
+</br>
 
 # JavaScript Objects 
 ```js
@@ -350,6 +362,7 @@ person.lastName
 
 person["lastName"]
 ```
+</br>
 
 # Python Dictionaries
 ```python
