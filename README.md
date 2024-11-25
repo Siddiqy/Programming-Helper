@@ -57,3 +57,41 @@ written in
 more than just one line
 """
 ```
+
+## User Input
+
+**Java**
+```
+Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+
+String userName = myObj.nextLine();  // Read user input
+ // Output user input
+```
+
+**JavaScript**
+```
+const userInput = prompt("Please enter your name:");
+```
+
+**Python**
+```
+input('Enter your name:')
+```
+
+## Output
+
+**Java**
+```
+System.out.println("Hello World!");
+```
+
+**JavaScript**
+```
+console.log("Hello World!");
+```
+
+**Python**
+```
+print('Hello World!')
+```
+
