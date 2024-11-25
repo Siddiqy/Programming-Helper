@@ -1,6 +1,8 @@
 # Programming-Helper
 
-## Variables 
+<hr>
+
+# Variables 
 
 ### Java
 ```java
@@ -30,7 +32,7 @@ Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
 ```
 
-## Comments
+# Comments
 
 ### Java
 ```java
@@ -58,7 +60,7 @@ more than just one line
 """
 ```
 
-## User Input
+# User Input
 
 ### Java
 ```java
@@ -78,7 +80,7 @@ const userInput = prompt("Please enter your name:");
 input('Enter your name:')
 ```
 
-## Output
+# Output
 
 ### Java
 ```java
@@ -95,7 +97,7 @@ console.log("Hello World!");
 print('Hello World!')
 ```
 
-## Syntax
+# Syntax
 
 ### Java
 ```java
@@ -106,7 +108,7 @@ public class Main {
 }
 ```
 
-## If ... Else Statements
+# If ... Else Statements
 
 ### Java
 ```java
@@ -141,7 +143,7 @@ elif a == b:
 else:
 ```
 
-## Switch Statements
+# Switch Statements
 
 ### Java
 ```java
@@ -171,7 +173,7 @@ switch(expression) {
 }
 ```
 
-## While Loop
+# While Loop
 
 ### Java
 ```java
@@ -200,7 +202,7 @@ while i < 6:
   i += 1
 ```
 
-## For Loop
+# For Loop
 
 ### Java
 ```java
@@ -228,7 +230,7 @@ for x in range(1, 30, 3):    #Started from 1 and stopped at 30 and increment the
   print(x)
 ```
 
-## Arrays
+# Arrays
 
 ### Java
 ```java
@@ -248,7 +250,7 @@ cars = ["Ford", "Volvo", "BMW"]
 x = cars[0]
 ```
 
-## Class
+# Class
 
 ### Java
 ```java
@@ -289,7 +291,7 @@ p1 = Person("John", 36)
 p1.myfunc()
 ```
 
-## Methods 
+# Methods 
 
 ### Java
 ```java
@@ -304,7 +306,7 @@ public class Main {
 }
 ```
 
-## Function 
+# Function 
 
 ### JavaScript
 ```js
@@ -321,7 +323,7 @@ def my_function(name):
 my_function("Tobias")
 ```
 
-## JavaScript Objects 
+# JavaScript Objects 
 ```js
 function Person(first, last, age, eye) {
   this.firstName = first;
@@ -348,7 +350,7 @@ person.lastName
 person["lastName"]
 ```
 
-## Python Dictionaries
+# Python Dictionaries
 ```python
 thisdict = {
   "brand": "Ford",
