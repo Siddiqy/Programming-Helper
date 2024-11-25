@@ -110,12 +110,12 @@ public class Main {
 
 **Java**
 ```
-if (condition1) {
-  //block of code to be executed if condition1 is true
-} else if (condition2) {
-  //block of code to be executed if the condition1 is false and condition2 is true
-} else {
-  //block of code to be executed if the condition1 is false and condition2 is false
+if(condition1) {
+  
+}else if (condition2) {
+  
+}else {
+  
 }
 
 variable = (condition) ? expressionTrue :  expressionFalse;   //Short Hand if...else
@@ -123,23 +123,23 @@ variable = (condition) ? expressionTrue :  expressionFalse;   //Short Hand if...
 
 **JavaScript**
 ```
-if (condition1) {
-  //block of code to be executed if condition1 is true
-} else if (condition2) {
-  //block of code to be executed if the condition1 is false and condition2 is true
-} else {
-  //block of code to be executed if the condition1 is false and condition2 is false
+if(condition1) {
+  
+}else if (condition2) {
+  
+}else {
+  
 }
 ```
 
 **Python**
 ```
 if condition1:
-  //block of code to be executed if condition1
+
 elif a == b:
-  //block of code to be executed if the condition1 is false and condition2 is true
+
 else:
-  //block of code to be executed if the condition1 is false and condition2 is false
+
 ```
 
 ## Switch Statements
@@ -237,4 +237,75 @@ let car = cars[0];
 ```
 cars = ["Ford", "Volvo", "BMW"]
 x = cars[0]
+```
+
+## Class 
+
+**Java**
+```
+public class Main {
+  int x = 5;
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    System.out.println(myObj.x);
+  }
+}
+```
+
+**JavaScript**
+```
+class Car {
+  constructor(name, year) {
+    this.name = name;
+    this.year = year;
+  }
+}
+
+const myCar1 = new Car("Ford", 2014);
+const myCar2 = new Car("Audi", 2019);
+```
+
+**Python**
+```
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print("Hello my name is " + self.name)
+
+p1 = Person("John", 36)
+p1.myfunc()
+```
+
+## Class 
+
+**Java**
+```
+public class Main {
+  static void myMethod() {
+    System.out.println("Hello World!");
+  }
+
+  public static void main(String[] args) {
+    myMethod();
+  }
+}
+```
+
+**JavaScript**
+```
+function myFunction(parameter1, parameter2) {
+  return parameter1 * parameter2;
+}
+```
+
+**Python**
+```
+def my_function(name):
+  print(" Hello " + name)
+
+my_function("Tobias")
 ```
