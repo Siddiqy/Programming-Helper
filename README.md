@@ -2,6 +2,7 @@
 
 ## Variables 
 <hr>
+
 **Java**
 ```java
 String
