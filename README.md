@@ -30,7 +30,7 @@ Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
 ```
 
-# Comments
+## Comments
 
 **Java**
 ```
@@ -95,3 +95,49 @@ console.log("Hello World!");
 print('Hello World!')
 ```
 
+## Syntax
+
+**Java**
+```
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
+
+## If ... Else
+
+**Java**
+```
+if (condition1) {
+  //block of code to be executed if condition1 is true
+} else if (condition2) {
+  //block of code to be executed if the condition1 is false and condition2 is true
+} else {
+  //block of code to be executed if the condition1 is false and condition2 is false
+}
+
+variable = (condition) ? expressionTrue :  expressionFalse;
+```
+
+**JavaScript**
+```
+if (condition1) {
+  //block of code to be executed if condition1 is true
+} else if (condition2) {
+  //block of code to be executed if the condition1 is false and condition2 is true
+} else {
+  //block of code to be executed if the condition1 is false and condition2 is false
+}
+```
+
+**Python**
+```
+if condition1:
+  //block of code to be executed if condition1
+elif a == b:
+  //block of code to be executed if the condition1 is false and condition2 is true
+else:
+  //block of code to be executed if the condition1 is false and condition2 is fals
+```
