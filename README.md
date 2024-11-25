@@ -2,7 +2,7 @@
 
 </br>
 
-# Variables 
+## Variables 
 
 ### Java
 ```java
@@ -33,7 +33,7 @@ None Type:	NoneType
 ```
 </br>
 
-# Comments
+## Comments
 
 ### Java
 ```java
@@ -62,7 +62,7 @@ more than just one line
 ```
 </br>
 
-# User Input
+## User Input
 
 ### Java
 ```java
@@ -83,7 +83,7 @@ input('Enter your name:')
 ```
 </br>
 
-# Output
+## Output
 
 ### Java
 ```java
@@ -101,7 +101,7 @@ print('Hello World!')
 ```
 </br>
 
-# Syntax
+## Syntax
 
 ### Java
 ```java
@@ -149,7 +149,7 @@ else:
 ```
 </br>
 
-# Switch Statements
+## Switch Statements
 
 ### Java
 ```java
@@ -180,7 +180,7 @@ switch(expression) {
 ```
 </br>
 
-# While Loop
+## While Loop
 
 ### Java
 ```java
@@ -210,7 +210,7 @@ while i < 6:
 ```
 </br>
 
-# For Loop
+## For Loop
 
 ### Java
 ```java
@@ -239,7 +239,7 @@ for x in range(1, 30, 3):    #Started from 1 and stopped at 30 and increment the
 ```
 </br>
 
-# Arrays
+## Arrays
 
 ### Java
 ```java
@@ -260,7 +260,7 @@ x = cars[0]
 ```
 </br>
 
-# Class
+## Class
 
 ### Java
 ```java
@@ -302,7 +302,7 @@ p1.myfunc()
 ```
 </br>
 
-# Methods 
+## Methods 
 
 ### Java
 ```java
@@ -318,7 +318,7 @@ public class Main {
 ```
 </br>
 
-# Function 
+## Function 
 
 ### JavaScript
 ```js
@@ -336,7 +336,7 @@ my_function("Tobias")
 ```
 </br>
 
-# JavaScript Objects 
+## JavaScript Objects 
 ```js
 function Person(first, last, age, eye) {
   this.firstName = first;
@@ -364,7 +364,7 @@ person["lastName"]
 ```
 </br>
 
-# Python Dictionaries
+## Python Dictionaries
 ```python
 thisdict = {
   "brand": "Ford",
