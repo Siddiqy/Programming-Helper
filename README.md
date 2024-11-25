@@ -2,7 +2,7 @@
 
 ## Variables 
 
-**Java**
+### Java
 ```java
 String
 int
