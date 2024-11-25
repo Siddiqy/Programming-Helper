@@ -1,8 +1,8 @@
 # Programming-Helper
 
-## Variables
+## <center> Variables </center>
 
- - **Java**
+**Java**
 ```java
 String
 int
@@ -11,14 +11,14 @@ char
 boolean
 ```
 
- - **JavaScript**
+**JavaScript**
 ```js
 var
 let
 const
 ```
 
- - **Python**
+**Python**
 ```python
 Text Type:	str
 Numeric Types:	int, float, complex
@@ -30,7 +30,7 @@ Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
 ```
 
-## Comments
+## <center> Comments </center>
 
  - **Java**
 ```java
