@@ -1,6 +1,6 @@
 # Programming-Helper
 
-<hr>
+
 
 # Variables 
 
