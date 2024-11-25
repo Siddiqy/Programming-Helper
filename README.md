@@ -60,7 +60,7 @@ more than just one line
 
 ## User Input
 
-**Java**
+#### Java
 ```java
 Scanner myObj = new Scanner(System.in);  // Create a Scanner object
 
@@ -68,36 +68,36 @@ String userName = myObj.nextLine();  // Read user input
  // Output user input
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 const userInput = prompt("Please enter your name:");
 ```
 
-**Python**
+#### Python
 ```python
 input('Enter your name:')
 ```
 
 ## Output
 
-**Java**
+#### Java
 ```java
 System.out.println("Hello World!");
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 console.log("Hello World!");
 ```
 
-**Python**
+#### Python
 ```python
 print('Hello World!')
 ```
 
 ## Syntax
 
-**Java**
+#### Java
 ```java
 public class Main {
   public static void main(String[] args) {
@@ -108,7 +108,7 @@ public class Main {
 
 ## If ... Else Statements
 
-**Java**
+#### Java
 ```java
 if(condition1) {
   
@@ -121,7 +121,7 @@ if(condition1) {
 variable = (condition) ? expressionTrue :  expressionFalse;   //Short Hand if...else
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 if(condition1) {
   
@@ -132,7 +132,7 @@ if(condition1) {
 }
 ```
 
-**Python**
+#### Python
 ```python
 if condition1:
 
@@ -143,7 +143,7 @@ else:
 
 ## Switch Statements
 
-**Java**
+#### Java
 ```java
 switch(expression) {
   case x:
@@ -157,7 +157,7 @@ switch(expression) {
 }
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 switch(expression) {
   case x:
@@ -173,7 +173,7 @@ switch(expression) {
 
 ## While Loop
 
-**Java**
+#### Java
 ```java
 int i = 0;
 while (i < 5) {
@@ -182,7 +182,7 @@ while (i < 5) {
 }
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 while (i < 10) {
   text += "The number is " + i;
@@ -190,7 +190,7 @@ while (i < 10) {
 }
 ```
 
-**Python**
+#### Python
 ```python
 i = 1
 while i < 6:
@@ -202,21 +202,21 @@ while i < 6:
 
 ## For Loop
 
-**Java**
+#### Java
 ```java
 for (int i = 0; i < 5; i++) {
   System.out.println(i);
 }
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 for (let i = 0; i < 10; i++) {
   consol.log(i)
 }
 ```
 
-**Python**
+#### Python
 ```python
 for x in range(6):     #Started from 0 and stopped at 5 and increment the sequence with 1
   print(x)
@@ -230,13 +230,13 @@ for x in range(1, 30, 3):    #Started from 1 and stopped at 30 and increment the
 
 ## Arrays
 
-**Java**
+#### Java
 ```java
 String cars[] = {"Volvo", "BMW", "Ford", "Mazda"};
 System.out.println(cars[0]);
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 const cars = ["Saab", "Volvo", "BMW"];
 let car = cars[0];
@@ -250,7 +250,7 @@ x = cars[0]
 
 ## Class
 
-**Java**
+#### Java
 ```java
 public class Main {
   int x = 5;
@@ -262,7 +262,7 @@ public class Main {
 }
 ```
 
-**JavaScript**
+#### JavaScript
 ```js
 class Car {
   constructor(name, year) {
@@ -275,7 +275,7 @@ const myCar1 = new Car("Ford", 2014);
 const myCar2 = new Car("Audi", 2019);
 ```
 
-**Python**
+#### Python
 ```python
 class Person:
   def __init__(self, name, age):
@@ -291,7 +291,7 @@ p1.myfunc()
 
 ## Methods 
 
-**Java**
+#### Java
 ```java
 public class Main {
   static void myMethod() {
@@ -306,14 +306,14 @@ public class Main {
 
 ## Function 
 
-**JavaScript**
+#### JavaScript
 ```js
 function myFunction(parameter1, parameter2) {
   return parameter1 * parameter2;
 }
 ```
 
-**Python**
+#### Python
 ```python
 def my_function(name):
   print(" Hello " + name)
