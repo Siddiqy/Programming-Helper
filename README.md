@@ -209,13 +209,13 @@ for (let i = 0; i < 10; i++) {
 
 **Python**
 ```
-for x in range(6):
+for x in range(6):     #Started from 0 and stopped at 5 and increment the sequence with 1
   print(x)
 
-for x in range(2, 6):
+for x in range(2, 6):    #Started from 2 and stopped at 5 and increment the sequence with 1
   print(x)
 
-for x in range(2, 30, 3):
+for x in range(1, 30, 3):    #Started from 1 and stopped at 30 and increment the sequence with 3
   print(x)
 ```
 
@@ -311,3 +311,47 @@ def my_function(name):
 
 my_function("Tobias")
 ```
+
+## JavaScript Objects 
+
+function Person(first, last, age, eye) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eye;
+}
+
+const myFather = new Person("John", "Doe", 50, "blue");
+
+const person = {
+  firstName:"John",
+  lastName:"Doe",
+  age:50, 
+  eyeColor:"blue"
+}
+
+const x = person;      // Create a copy
+
+x.age = 10;     // Change Age in both
+
+person.lastName
+
+person["lastName"]
+
+## Python Dictionaries
+
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+print(thisdict)             #Print Dictionaries
+
+x = thisdict["model"]       #Accessing Items
+
+thisdict["year"] = 2018     #Change Values
+
+thisdict["color"] = "red"   #Adding Items
+
+thisdict.pop("model")       #Removing Items
