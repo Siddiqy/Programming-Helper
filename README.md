@@ -346,10 +346,12 @@ function Person(first, last, age, eye) {
 
 const myFather = new Person("John", "Doe", 50, "blue");
 
-const person = {
+// Another object creation
+
+const person = {       // Create an object
   firstName:"John",
   lastName:"Doe",
-  age:50, 
+  age: 50, 
   eyeColor:"blue"
 }
 
