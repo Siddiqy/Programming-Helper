@@ -243,7 +243,7 @@ for x in range(1, 30, 3):    #Started from 1 and stopped at 30 and increment the
 ### Java
 ```java
 String cars[] = {"Volvo", "BMW", "Ford", "Mazda"};
-System.out.println(cars[0]);
+String cars = cars[0];
 ```
 
 ### JavaScript
