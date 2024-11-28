@@ -69,7 +69,6 @@ more than just one line
 Scanner myObj = new Scanner(System.in);  // Create a Scanner object
 
 String userName = myObj.nextLine();  // Read user input
- // Output user input
 ```
 
 ### JavaScript
